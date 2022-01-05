@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285322186164",
+    "project_id": "mococo-7a221",
+    "storage_bucket": "mococo-7a221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285322186164:android:fb4850edbd6a5ec50236e1",
+        "android_client_info": {
+          "package_name": "com.grave.mococo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285322186164-d47e8n1253gdme9ikmhcf5r2uup9rhk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQBrMzarqtoSFGucwNBeMkxt3hEOG0Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285322186164-d47e8n1253gdme9ikmhcf5r2uup9rhk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
